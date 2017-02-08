@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  font-family: "Open Sans";
+  font-size: 16px;
+  line-height: 1.4;
+  background-color: #d8e0e5; }
+
+.card {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%); }
+
+/*# sourceMappingURL=style.css.map */
